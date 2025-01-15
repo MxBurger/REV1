@@ -1,4 +1,4 @@
-# Anwendungsfälle (Use Cases)
+# Anwendungsfälle (Use Cases) 	:cry:
 ## Lernziele
 ### Sie wissen, was Anwendungsfälle sind und wie man sie zur Beschreibung funktionaler Anforderungen einsetzen kann.
 - Ein Anwendungsfall beschreibt Schritt für Schritt, wie ein\*e Akteur\*in mit dem System interagiert, um ein Ziel zu erreichen.
