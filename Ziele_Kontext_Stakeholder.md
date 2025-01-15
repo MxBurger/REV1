@@ -95,10 +95,37 @@ Anforderungen zu ermitteln.
     - Übergeordnete (oder benachbarte) Projekte/Produkte (z.B. übergeordnetes SAP System)
     - Dokumente (interne Vorschriften, Systemdokumentation)
 
-
-
-
+- Eine Methode zur Kontextanalyse ist die Feldbeobachtung (persönlich vorort wahrnehmen)
+- Die Beschreibung von konkreten Einsatzszenarien (konkrete Beispiele wie das System verwendet wird) vermittelt ein super Gefühl des Systemkontexts (Ein Einsatzszenario beschreibt EINE konkrete Ausführung eines Geschäftsprozesses mit konkreten Werten, ist aber nur eine Veranschaulichung wie es laufen kann) 
 
 ###  Sie wissen um die wesentliche Rolle der Stakeholder\*innen und können die richtigen Stakeholder\*innen auswählen.
+- Ein\*e Stakeholder\*in (Beteiligte\*r, Betroffene\*r) ist eine Person oder Organisation, die Interesse an dem System hat (Interessensgruppe) und direkt oder indirekt Einfluss auf die Anforderungen nimmt.
+- Identifizieren der Stakeholder\*innen ist eine zentrale Aufgabe des Requirements Engineerings.
+- Es gibt unterschiedlichste Stakeholder\*innen bei einem Softwaresystem (mit sehr unterschiedlichen Sichten):
+    - Auftraggeber\*in: Begeistert von der Lösung, interessiert auch an technischen Details
+    - Anwender\*innen: Haben Fokus auf ihrer täglichen Arbeit, Software ist nur eines von vielen Werkzeugen, die sie einsetzen müssen
+    - Entwickler\*innen: Fokus auf Technik und Lösung, oft noch in vielen anderen Projekten drin
+- In einer Stakeholder\*innen-Liste können Informationen zu gewissen Stakeholder\*innen-Gruppen dokumentiert werden:
+    - Ziele und Erwartungen
+    - Vertreter\*innen
+    - Einfluss auf die Anforderungen
+- Personas sind eine Methode aus dem Marketing und beschreiben fiktive Stakeholder\*innen (Welche Eigenschaften einer Persona beschrieben werden, hängt stark vom Projektkontext ab.)
+
+
+
 
 ###  Sie kennen wichtige Grundregeln im Umgang mit Stakeholder\*innen.
+- Werden Stakeholder\*innen übersehen, fehlen Anforderungen, die Änderungen oder schlimmstenfalls ein unbrauchbares System nach sich ziehen.
+- Mangelnde Motivation der Stakeholder\*innen, weil:
+    - sie zufrieden mit dem Altsystem sind,
+    - Angst vor Veränderungen haben,
+    - negative Erfahrungen gemacht haben
+    - ...
+- Vernachlässigte Stakeholder*innen können das Projekt torpedieren.
+- Aufgaben und Erwartungen müssen mit den Stakeholdern\*innen durchgegangen und vereinbart werden.
+- Als Requirements Engineer*in braucht man daher sehr gute Soft Skills, gerade bei der Arbeit mit Stakeholder\*innen menschlts oft
+- Ein paar Basics:
+    -  Immer höflich und wertschätzend bleiben. Stakeholder\*innen zahlen unser Gehalt.
+    - Eine Sprache sprechen, die die Stakeholder\*innen auch verstehen. Keine Software-Fachbegriffe, kein Denglisch etc.
+    - Immer versuchen zu verstehen, was die Stakeholder*innen wirklich brauchen. Viel zuhören.
+    - Nicht besserwisserisch sein. Stakeholder*innen kennen den Fachbereich besser
