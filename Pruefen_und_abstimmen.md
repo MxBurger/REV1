@@ -1,4 +1,4 @@
-# Anforderungen prüfen und abstimmen
+# Anforderungen prüfen und abstimmen :nauseated_face:
 ## Lernziele
 
 ### Sie wissen, warum Anforderungen geprüft und abgestimmt werden müssen.
